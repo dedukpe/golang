@@ -1,0 +1,1 @@
+ls -tFmA | cat | tr -d " "
